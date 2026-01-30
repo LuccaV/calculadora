@@ -6,17 +6,15 @@ def mostrar_menu():
     print("4 - divisão")
     print("0 - sair")
 
+
 def adicao(a, b):
     return a + b
-
 
 def subtracao(a, b):
     return a - b
 
-
 def multiplicacao(a, b):
     return a * b
-
 
 def divisao(a, b):
     if b == 0:
